@@ -1,0 +1,401 @@
+sheet	label	label_is
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Incorrect
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Incorrect
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Incorrect
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Incorrect
+affective	0.0	Correct
+affective	0.0	Correct
+affective	0.0	Incorrect
+affective	0.0	Correct
+affective	0.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Incorrect
+affective	1.0	Incorrect
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	Correct
+affective	1.0	
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	0.0	Correct
+attribute subs	1.0	
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+attribute subs	1.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Incorrect
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Correct
+availability	0.0	Incorrect
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+availability	1.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	0.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Incorrect
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+base_rate_neglect 	1.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Incorrect
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Incorrect
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Correct
+confirmation_bias	0.0	Incorrect
+confirmation_bias	1.0	Correct
+confirmation_bias	1.0	Correct
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+confirmation_bias	1.0	
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	0.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Incorrect
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Incorrect
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Incorrect
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+illusion_of_validity	1.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Incorrect
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Incorrect
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Incorrect
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Incorrect
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Correct
+law_of_small_numbers	0.0	Incorrect
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+law_of_small_numbers	1.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	0.0	Correct
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
+representativeness_heuristic	1.0	
