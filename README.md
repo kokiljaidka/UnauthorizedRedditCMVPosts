@@ -1,3 +1,20 @@
+This dataset accompanies the following paper:
+
+> Jaidka, K., & Ahmed, S. (2026). How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment. *Proceedings of the 3rd Workshop on Natural Language Processing for Political Sciences (NLP4PS at LREC-COLING 2026)*.
+
+Cite us as:
+
+@inproceedings{jaidka2026covert,
+  author    = {Jaidka, Kokil and Ahmed, Saifuddin},
+  title     = {How Far Did They Go? {T}he Persuasive Tactics of Covert
+               {LLM} Agents in a Discontinued Field Experiment},
+  booktitle = {Proceedings of the 3rd Workshop on Natural Language
+               Processing for Political Sciences},
+  series    = {NLP4PS at {LREC}-{COLING} 2026},
+  year      = {2026},
+}
+
+
 # UnauthorizedRedditCMVPosts
 Annotated dataset corresponding to Reddit r/changemyview (r/CMV) comments by covert LLM agents, enriched with span-level labels for identity positioning (targeting/adoption), alignment and authority moves, and eight cognitive heuristics (e.g., availability, base-rate neglect, confirmation bias).
 
